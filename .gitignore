@@ -1,0 +1,7 @@
+
+# vs files
+/.vs
+
+# csharp files
+**/bin/
+**/obj/
